@@ -1,0 +1,28 @@
+
+body { /* !!לא לגעת בזה, זה עלול לשבור את הקוד!!  */
+
+}
+
+
+.title { /*  שם הקלאס */
+
+		margin-top: 300px; /* משנה את הגובה של הטקסט, ככל שיהיה יותר גבוה, ככה יהיה יותר נמוך */
+		color: black; /*  צבע הטקסט  */
+		font-size: 30px; /*  גודל הטקסט */
+		font-family: 'Varela Round', sans-serif; /*  הפונט של הטקסט */
+}
+
+
+.under-title {
+
+		margin-top: 30px; /*משנה את הגובה של הטקסט, ככל שיהיה יותר גבוה, ככה יהיה יותר נמוך*/
+		color: darkgrey; /*  צבע הטקסט  */
+		font-size: 15px; /*  גודל הטקסט */
+		font-family: 'Varela Round', sans-serif;  /*  הפונט של הטקסט */
+}
+
+
+hr {
+	opacity: 15%;
+
+}
